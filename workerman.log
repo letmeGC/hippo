@@ -1,0 +1,1050 @@
+2018-01-31 16:08:58 Workerman[start.php] start in DAEMON mode
+2018-01-31 17:03:59 Workerman[start.php] restart 
+2018-01-31 17:03:59 Workerman[start.php] is stoping ...
+2018-01-31 17:03:59 Workerman[start.php] Stopping ...
+2018-01-31 17:03:59 Workerman[start.php] has been stopped
+2018-01-31 17:03:59 Workerman[start.php] stop success
+2018-01-31 17:33:09 Workerman[start.php] restart 
+2018-01-31 17:33:09 Workerman[start.php] is stoping ...
+2018-01-31 17:33:09 Workerman[start.php] Stopping ...
+2018-01-31 17:33:09 Workerman[start.php] has been stopped
+2018-01-31 17:33:09 Workerman[start.php] stop success
+2018-01-31 17:55:13 Workerman[start.php] restart 
+2018-01-31 17:55:13 Workerman[start.php] is stoping ...
+2018-01-31 17:55:13 Workerman[start.php] Stopping ...
+2018-01-31 17:55:13 Workerman[start.php] has been stopped
+2018-01-31 17:55:13 Workerman[start.php] stop success
+2018-01-31 18:48:32 Workerman[start.php] restart 
+2018-01-31 18:48:32 Workerman[start.php] is stoping ...
+2018-01-31 18:48:32 Workerman[start.php] Stopping ...
+2018-01-31 18:48:32 Workerman[start.php] has been stopped
+2018-01-31 18:48:32 Workerman[start.php] stop success
+2018-01-31 18:49:25 Workerman[start.php] restart 
+2018-01-31 18:49:25 Workerman[start.php] is stoping ...
+2018-01-31 18:49:25 Workerman[start.php] Stopping ...
+2018-01-31 18:49:25 Workerman[start.php] has been stopped
+2018-01-31 18:49:25 Workerman[start.php] stop success
+2018-01-31 18:49:31 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/start.php on line 41
+2018-01-31 18:49:31 worker[BusinessWorker:19236] exit with status 65280
+2018-01-31 18:50:48 Workerman[start.php] restart 
+2018-01-31 18:50:48 Workerman[start.php] is stoping ...
+2018-01-31 18:50:48 Workerman[start.php] Stopping ...
+2018-01-31 18:50:48 Workerman[start.php] has been stopped
+2018-01-31 18:50:48 Workerman[start.php] stop success
+2018-01-31 18:53:55 Workerman[start.php] restart 
+2018-01-31 18:53:55 Workerman[start.php] is stoping ...
+2018-01-31 18:53:55 Workerman[start.php] Stopping ...
+2018-01-31 18:53:55 Workerman[start.php] has been stopped
+2018-01-31 18:53:55 Workerman[start.php] stop success
+2018-01-31 19:04:33 Workerman[start.php] restart 
+2018-01-31 19:04:33 Workerman[start.php] is stoping ...
+2018-01-31 19:04:33 Workerman[start.php] Stopping ...
+2018-01-31 19:04:33 Workerman[start.php] has been stopped
+2018-01-31 19:04:33 Workerman[start.php] stop success
+2018-02-01 13:02:15 Workerman[start.php] restart 
+2018-02-01 13:02:15 Workerman[start.php] is stoping ...
+2018-02-01 13:02:15 Workerman[start.php] Stopping ...
+2018-02-01 13:02:15 Workerman[start.php] has been stopped
+2018-02-01 13:02:15 Workerman[start.php] stop success
+2018-02-01 13:05:29 Workerman[start.php] restart 
+2018-02-01 13:05:29 Workerman[start.php] is stoping ...
+2018-02-01 13:05:29 Workerman[start.php] Stopping ...
+2018-02-01 13:05:29 Workerman[start.php] has been stopped
+2018-02-01 13:05:29 Workerman[start.php] stop success
+2018-02-02 13:20:36 Workerman[start.php] restart 
+2018-02-02 13:20:36 Workerman[start.php] is stoping ...
+2018-02-02 13:20:36 Workerman[start.php] Stopping ...
+2018-02-02 13:20:36 Workerman[start.php] has been stopped
+2018-02-02 13:20:36 Workerman[start.php] stop success
+2018-02-02 13:30:43 Workerman[start.php] restart 
+2018-02-02 13:30:43 Workerman[start.php] is stoping ...
+2018-02-02 13:30:43 Workerman[start.php] Stopping ...
+2018-02-02 13:30:43 Workerman[start.php] has been stopped
+2018-02-02 13:30:43 Workerman[start.php] stop success
+2018-02-02 13:32:34 Workerman[start.php] restart 
+2018-02-02 13:32:34 Workerman[start.php] is stoping ...
+2018-02-02 13:32:34 Workerman[start.php] Stopping ...
+2018-02-02 13:32:34 Workerman[start.php] has been stopped
+2018-02-02 13:32:34 Workerman[start.php] stop success
+2018-02-02 13:32:36 Workerman[start.php] restart 
+2018-02-02 13:32:36 Workerman[start.php] is stoping ...
+2018-02-02 13:32:36 Workerman[start.php] Stopping ...
+2018-02-02 13:32:36 Workerman[start.php] has been stopped
+2018-02-02 13:32:36 Workerman[start.php] stop success
+2018-02-02 13:32:37 Workerman[start.php] restart 
+2018-02-02 13:32:37 Workerman[start.php] is stoping ...
+2018-02-02 13:32:37 Workerman[start.php] Stopping ...
+2018-02-02 13:32:37 Workerman[start.php] has been stopped
+2018-02-02 13:32:37 Workerman[start.php] stop success
+2018-02-02 13:41:36 Workerman[start.php] restart 
+2018-02-02 13:41:36 Workerman[start.php] is stoping ...
+2018-02-02 13:41:36 Workerman[start.php] Stopping ...
+2018-02-02 13:41:36 Workerman[start.php] has been stopped
+2018-02-02 13:41:36 Workerman[start.php] stop success
+2018-02-02 13:52:24 Workerman[start.php] restart 
+2018-02-02 13:52:24 Workerman[start.php] is stoping ...
+2018-02-02 13:52:24 Workerman[start.php] Stopping ...
+2018-02-02 13:52:24 Workerman[start.php] has been stopped
+2018-02-02 13:52:24 Workerman[start.php] stop success
+2018-02-02 13:52:49 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 13:52:49 worker[BusinessWorker:13467] exit with status 65280
+2018-02-02 13:52:49 client_id:7f0000010ed800000003	client_ip:3232235844
+exception 'Exception' with message 'client_id  7f0000010ed800000003 is invalid' in /home/OdinProject/Odin/GatewayWorker/Lib/Context.php:103
+Stack trace:
+#0 /home/OdinProject/Odin/GatewayWorker/Lib/Gateway.php(452): GatewayWorker\Lib\Context::clientIdToAddress(' 7f0000010ed800...')
+#1 /home/OdinProject/Odin/GatewayWorker/Lib/Gateway.php(340): GatewayWorker\Lib\Gateway::sendCmdAndMessageToClient(' 7f0000010ed800...', 12, '', NULL)
+#2 /home/hippo/Applications/Logic/TalkLogic.php(25): GatewayWorker\Lib\Gateway::bindUid(' 7f0000010ed800...', NULL)
+#3 /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php(22): TalkLogic::bind('7f0000010ed8000...', Array)
+#4 /home/OdinProject/Odin/SocketBase/Event.php(165): LogicBase::doAction('bind', '7f0000010ed8000...', Array, NULL)
+#5 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(241): Event::onMessage('7f0000010ed8000...', '{ "path": "1300...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 /home/OdinProject/Odin/Workerman/Connection/TcpConnection.php(435): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #64)
+#9 /home/OdinProject/Odin/Workerman/Events/Select.php(260): call_user_func_array(Array, Array)
+#10 /home/OdinProject/Odin/Workerman/Worker.php(1491): Workerman\Events\Select->loop()
+#11 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(104): Workerman\Worker->run()
+#12 /home/OdinProject/Odin/Workerman/Worker.php(900): GatewayWorker\BusinessWorker->run()
+#13 /home/OdinProject/Odin/Workerman/Worker.php(860): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#14 /home/OdinProject/Odin/Workerman/Worker.php(1032): Workerman\Worker::forkWorkers()
+#15 /home/OdinProject/Odin/Workerman/Worker.php(393): Workerman\Worker::monitorWorkers()
+#16 /home/hippo/start.php(49): Workerman\Worker::runAll()
+#17 {main}
+2018-02-02 13:55:23 Workerman[start.php] restart 
+2018-02-02 13:55:23 Workerman[start.php] is stoping ...
+2018-02-02 13:55:23 Workerman[start.php] Stopping ...
+2018-02-02 13:55:23 Workerman[start.php] has been stopped
+2018-02-02 13:55:23 Workerman[start.php] stop success
+2018-02-02 13:55:38 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 13:55:38 worker[BusinessWorker:13613] exit with status 65280
+2018-02-02 13:55:38 client_id:7f0000010ed800000003	client_ip:3232235844
+exception 'Exception' with message 'client_id  7f0000010ed800000003 is invalid' in /home/OdinProject/Odin/GatewayWorker/Lib/Context.php:103
+Stack trace:
+#0 /home/OdinProject/Odin/GatewayWorker/Lib/Gateway.php(452): GatewayWorker\Lib\Context::clientIdToAddress(' 7f0000010ed800...')
+#1 /home/OdinProject/Odin/GatewayWorker/Lib/Gateway.php(340): GatewayWorker\Lib\Gateway::sendCmdAndMessageToClient(' 7f0000010ed800...', 12, '', NULL)
+#2 /home/hippo/Applications/Logic/TalkLogic.php(25): GatewayWorker\Lib\Gateway::bindUid(' 7f0000010ed800...', NULL)
+#3 /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php(22): TalkLogic::bind('7f0000010ed8000...', Array)
+#4 /home/OdinProject/Odin/SocketBase/Event.php(165): LogicBase::doAction('bind', '7f0000010ed8000...', Array, NULL)
+#5 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(241): Event::onMessage('7f0000010ed8000...', '{ "path": "1300...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 /home/OdinProject/Odin/Workerman/Connection/TcpConnection.php(435): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #65)
+#9 /home/OdinProject/Odin/Workerman/Events/Select.php(260): call_user_func_array(Array, Array)
+#10 /home/OdinProject/Odin/Workerman/Worker.php(1491): Workerman\Events\Select->loop()
+#11 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(104): Workerman\Worker->run()
+#12 /home/OdinProject/Odin/Workerman/Worker.php(900): GatewayWorker\BusinessWorker->run()
+#13 /home/OdinProject/Odin/Workerman/Worker.php(860): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#14 /home/OdinProject/Odin/Workerman/Worker.php(1032): Workerman\Worker::forkWorkers()
+#15 /home/OdinProject/Odin/Workerman/Worker.php(393): Workerman\Worker::monitorWorkers()
+#16 /home/hippo/start.php(49): Workerman\Worker::runAll()
+#17 {main}
+2018-02-02 14:07:35 Workerman[start.php] restart 
+2018-02-02 14:07:35 Workerman[start.php] is stoping ...
+2018-02-02 14:07:35 Workerman[start.php] Stopping ...
+2018-02-02 14:07:35 Workerman[start.php] has been stopped
+2018-02-02 14:07:35 Workerman[start.php] stop success
+2018-02-02 14:07:49 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Access level to TalkLogic::doLogin() must be public (as in class LogicBase) in /home/hippo/Applications/Logic/TalkLogic.php on line 39
+2018-02-02 14:07:49 worker[BusinessWorker:14245] exit with status 65280
+2018-02-02 14:07:49 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Access level to TalkLogic::doLogin() must be public (as in class LogicBase) in /home/hippo/Applications/Logic/TalkLogic.php on line 39
+2018-02-02 14:07:49 worker[BusinessWorker:14255] exit with status 65280
+2018-02-02 14:14:50 Workerman[start.php] restart 
+2018-02-02 14:14:50 Workerman[start.php] is stoping ...
+2018-02-02 14:14:50 Workerman[start.php] Stopping ...
+2018-02-02 14:14:50 Workerman[start.php] has been stopped
+2018-02-02 14:14:50 Workerman[start.php] stop success
+2018-02-02 14:14:55 Workerman[start.php] restart 
+2018-02-02 14:14:55 Workerman[start.php] is stoping ...
+2018-02-02 14:14:55 Workerman[start.php] Stopping ...
+2018-02-02 14:14:55 Workerman[start.php] has been stopped
+2018-02-02 14:14:55 Workerman[start.php] stop success
+2018-02-02 14:15:08 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 14:15:08 worker[BusinessWorker:14601] exit with status 65280
+2018-02-02 14:16:48 Workerman[start.php] restart 
+2018-02-02 14:16:48 Workerman[start.php] is stoping ...
+2018-02-02 14:16:48 Workerman[start.php] Stopping ...
+2018-02-02 14:16:48 Workerman[start.php] has been stopped
+2018-02-02 14:16:48 Workerman[start.php] stop success
+2018-02-02 14:16:53 Workerman[start.php] restart 
+2018-02-02 14:16:53 Workerman[start.php] is stoping ...
+2018-02-02 14:16:53 Workerman[start.php] Stopping ...
+2018-02-02 14:16:53 Workerman[start.php] has been stopped
+2018-02-02 14:16:53 Workerman[start.php] stop success
+2018-02-02 14:17:04 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 14:17:04 worker[BusinessWorker:14720] exit with status 65280
+2018-02-02 14:21:36 Workerman[start.php] restart 
+2018-02-02 14:21:36 Workerman[start.php] is stoping ...
+2018-02-02 14:21:36 Workerman[start.php] Stopping ...
+2018-02-02 14:21:36 Workerman[start.php] has been stopped
+2018-02-02 14:21:36 Workerman[start.php] stop success
+2018-02-02 14:21:41 Workerman[start.php] restart 
+2018-02-02 14:21:41 Workerman[start.php] is stoping ...
+2018-02-02 14:21:41 Workerman[start.php] Stopping ...
+2018-02-02 14:21:41 Workerman[start.php] has been stopped
+2018-02-02 14:21:41 Workerman[start.php] stop success
+2018-02-02 14:24:14 Workerman[start.php] restart 
+2018-02-02 14:24:14 Workerman[start.php] is stoping ...
+2018-02-02 14:24:14 Workerman[start.php] Stopping ...
+2018-02-02 14:24:14 Workerman[start.php] has been stopped
+2018-02-02 14:24:14 Workerman[start.php] stop success
+2018-02-02 14:25:35 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 14:25:35 worker[BusinessWorker:15132] exit with status 65280
+2018-02-02 14:45:45 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 14:45:45 worker[BusinessWorker:15194] exit with status 65280
+2018-02-02 14:46:03 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 14:46:03 worker[BusinessWorker:16184] exit with status 65280
+2018-02-02 14:46:25 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 14:46:25 worker[BusinessWorker:16221] exit with status 65280
+2018-02-02 14:46:30 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 14:46:30 worker[BusinessWorker:16226] exit with status 65280
+2018-02-02 14:49:51 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 14:49:51 worker[BusinessWorker:16229] exit with status 65280
+2018-02-02 14:50:07 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 14:50:07 worker[BusinessWorker:16396] exit with status 65280
+2018-02-02 14:51:53 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 14:51:53 worker[BusinessWorker:16433] exit with status 65280
+2018-02-02 14:54:36 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 14:54:36 worker[BusinessWorker:16497] exit with status 65280
+2018-02-02 14:54:48 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 14:54:48 worker[BusinessWorker:16639] exit with status 65280
+2018-02-02 14:55:01 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 14:55:01 worker[BusinessWorker:16643] exit with status 65280
+2018-02-02 14:58:56 Workerman[start.php] restart 
+2018-02-02 14:58:56 Workerman[start.php] is stoping ...
+2018-02-02 14:58:56 Workerman[start.php] Stopping ...
+2018-02-02 14:58:57 Workerman[start.php] has been stopped
+2018-02-02 14:58:57 Workerman[start.php] stop success
+2018-02-02 15:00:04 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:00:04 worker[BusinessWorker:16843] exit with status 65280
+2018-02-02 15:01:00 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:01:00 worker[BusinessWorker:16946] exit with status 65280
+2018-02-02 15:01:08 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:01:08 worker[BusinessWorker:16966] exit with status 65280
+2018-02-02 15:04:42 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:04:42 worker[BusinessWorker:17014] exit with status 65280
+2018-02-02 15:07:54 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:07:54 worker[BusinessWorker:17162] exit with status 65280
+2018-02-02 15:08:02 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:08:02 worker[BusinessWorker:17313] exit with status 65280
+2018-02-02 15:08:57 Workerman[start.php] restart 
+2018-02-02 15:08:57 Workerman[start.php] is stoping ...
+2018-02-02 15:08:57 Workerman[start.php] Stopping ...
+2018-02-02 15:08:57 Workerman[start.php] has been stopped
+2018-02-02 15:08:57 Workerman[start.php] stop success
+2018-02-02 15:09:13 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:09:13 worker[BusinessWorker:17365] exit with status 65280
+2018-02-02 15:10:10 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:10:10 worker[BusinessWorker:17403] exit with status 65280
+2018-02-02 15:14:28 Workerman[start.php] restart 
+2018-02-02 15:14:28 Workerman[start.php] is stoping ...
+2018-02-02 15:14:28 Workerman[start.php] Stopping ...
+2018-02-02 15:14:28 Workerman[start.php] has been stopped
+2018-02-02 15:14:28 Workerman[start.php] stop success
+2018-02-02 15:14:49 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:14:49 worker[BusinessWorker:17673] exit with status 65280
+2018-02-02 15:15:00 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:15:00 worker[BusinessWorker:17684] exit with status 65280
+2018-02-02 15:16:09 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:16:09 worker[BusinessWorker:17693] exit with status 65280
+2018-02-02 15:16:20 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:16:20 worker[BusinessWorker:17770] exit with status 65280
+2018-02-02 15:16:28 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:16:28 worker[BusinessWorker:17775] exit with status 65280
+2018-02-02 15:16:55 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:16:55 worker[BusinessWorker:17776] exit with status 65280
+2018-02-02 15:20:59 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:20:59 worker[BusinessWorker:17788] exit with status 65280
+2018-02-02 15:21:13 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:21:13 worker[BusinessWorker:17975] exit with status 65280
+2018-02-02 15:23:29 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:23:29 worker[BusinessWorker:18007] exit with status 65280
+2018-02-02 15:23:46 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:23:46 worker[BusinessWorker:18103] exit with status 65280
+2018-02-02 15:27:48 Workerman[start.php] restart 
+2018-02-02 15:27:48 Workerman[start.php] is stoping ...
+2018-02-02 15:27:48 Workerman[start.php] Stopping ...
+2018-02-02 15:27:48 Workerman[start.php] has been stopped
+2018-02-02 15:27:48 Workerman[start.php] stop success
+2018-02-02 15:28:02 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:28:02 worker[BusinessWorker:18307] exit with status 65280
+2018-02-02 15:28:12 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:28:12 worker[BusinessWorker:18350] exit with status 65280
+2018-02-02 15:28:28 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:28:28 worker[BusinessWorker:18353] exit with status 65280
+2018-02-02 15:29:50 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:29:50 worker[BusinessWorker:18356] exit with status 65280
+2018-02-02 15:30:05 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:30:05 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready
+2018-02-02 15:30:05 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready
+2018-02-02 15:30:05 worker[BusinessWorker:18412] exit with status 65280
+2018-02-02 15:35:15 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:35:15 worker[BusinessWorker:18455] exit with status 65280
+2018-02-02 15:35:53 Workerman[start.php] restart 
+2018-02-02 15:35:53 Workerman[start.php] is stoping ...
+2018-02-02 15:35:53 Workerman[start.php] Stopping ...
+2018-02-02 15:35:53 Workerman[start.php] has been stopped
+2018-02-02 15:35:53 Workerman[start.php] stop success
+2018-02-02 15:36:05 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:36:05 worker[BusinessWorker:18704] exit with status 65280
+2018-02-02 15:37:43 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:37:43 worker[BusinessWorker:18740] exit with status 65280
+2018-02-02 15:38:19 Workerman[start.php] restart 
+2018-02-02 15:38:19 Workerman[start.php] is stoping ...
+2018-02-02 15:38:19 Workerman[start.php] Stopping ...
+2018-02-02 15:38:19 Workerman[start.php] has been stopped
+2018-02-02 15:38:19 Workerman[start.php] stop success
+2018-02-02 15:38:27 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method TalkLogic::check_right() in /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php on line 37
+2018-02-02 15:38:27 worker[BusinessWorker:18857] exit with status 65280
+2018-02-02 15:40:39 Workerman[start.php] restart 
+2018-02-02 15:40:39 Workerman[start.php] is stoping ...
+2018-02-02 15:40:39 Workerman[start.php] Stopping ...
+2018-02-02 15:40:39 Workerman[start.php] has been stopped
+2018-02-02 15:40:39 Workerman[start.php] stop success
+2018-02-02 15:40:46 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 15:40:46 worker[BusinessWorker:18966] exit with status 65280
+2018-02-02 15:41:53 Workerman[start.php] restart 
+2018-02-02 15:41:53 Workerman[start.php] is stoping ...
+2018-02-02 15:41:53 Workerman[start.php] Stopping ...
+2018-02-02 15:41:53 Workerman[start.php] has been stopped
+2018-02-02 15:41:53 Workerman[start.php] stop success
+2018-02-02 15:42:13 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 15:42:13 worker[BusinessWorker:19031] exit with status 65280
+2018-02-02 15:42:29 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 15:42:29 worker[BusinessWorker:19070] exit with status 65280
+2018-02-02 15:43:42 Workerman[start.php] restart 
+2018-02-02 15:43:42 Workerman[start.php] is stoping ...
+2018-02-02 15:43:42 Workerman[start.php] Stopping ...
+2018-02-02 15:43:42 Workerman[start.php] has been stopped
+2018-02-02 15:43:42 Workerman[start.php] stop success
+2018-02-02 15:43:56 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 15:43:56 worker[BusinessWorker:19127] exit with status 65280
+2018-02-02 15:46:06 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 15:46:06 worker[BusinessWorker:19140] exit with status 65280
+2018-02-02 15:47:14 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 15:47:14 worker[BusinessWorker:19265] exit with status 65280
+2018-02-02 15:52:44 Workerman[start.php] restart 
+2018-02-02 15:52:44 Workerman[start.php] is stoping ...
+2018-02-02 15:52:44 Workerman[start.php] Stopping ...
+2018-02-02 15:52:44 Workerman[start.php] has been stopped
+2018-02-02 15:52:44 Workerman[start.php] stop success
+2018-02-02 15:52:56 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 15:52:56 worker[BusinessWorker:19577] exit with status 65280
+2018-02-02 15:53:04 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 15:53:04 worker[BusinessWorker:19590] exit with status 65280
+2018-02-02 15:54:06 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 15:54:06 worker[BusinessWorker:19621] exit with status 65280
+2018-02-02 15:54:43 Workerman[start.php] restart 
+2018-02-02 15:54:43 Workerman[start.php] is stoping ...
+2018-02-02 15:54:43 Workerman[start.php] Stopping ...
+2018-02-02 15:54:43 Workerman[start.php] has been stopped
+2018-02-02 15:54:43 Workerman[start.php] stop success
+2018-02-02 15:54:59 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 15:54:59 worker[BusinessWorker:19681] exit with status 65280
+2018-02-02 15:55:58 Workerman[start.php] restart 
+2018-02-02 15:55:58 Workerman[start.php] is stoping ...
+2018-02-02 15:55:58 Workerman[start.php] Stopping ...
+2018-02-02 15:55:58 Workerman[start.php] has been stopped
+2018-02-02 15:55:58 Workerman[start.php] stop success
+2018-02-02 15:56:09 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 15:56:09 worker[BusinessWorker:19745] exit with status 65280
+2018-02-02 15:56:30 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 15:56:30 worker[BusinessWorker:19780] exit with status 65280
+2018-02-02 15:57:35 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 15:57:35 worker[BusinessWorker:19785] exit with status 65280
+2018-02-02 15:59:25 Workerman[start.php] restart 
+2018-02-02 15:59:25 Workerman[start.php] is stoping ...
+2018-02-02 15:59:25 Workerman[start.php] Stopping ...
+2018-02-02 15:59:25 Workerman[start.php] has been stopped
+2018-02-02 15:59:25 Workerman[start.php] stop success
+2018-02-02 15:59:41 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 15:59:41 worker[BusinessWorker:19929] exit with status 65280
+2018-02-02 16:00:04 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 16:00:04 worker[BusinessWorker:19939] exit with status 65280
+2018-02-02 16:00:25 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 16:00:25 worker[BusinessWorker:19985] exit with status 65280
+2018-02-02 16:00:32 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 16:00:32 worker[BusinessWorker:19990] exit with status 65280
+2018-02-02 16:03:10 Workerman[start.php] restart 
+2018-02-02 16:03:10 Workerman[start.php] is stoping ...
+2018-02-02 16:03:10 Workerman[start.php] Stopping ...
+2018-02-02 16:03:10 Workerman[start.php] has been stopped
+2018-02-02 16:03:10 Workerman[start.php] stop success
+2018-02-02 16:03:20 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 16:03:20 worker[BusinessWorker:20148] exit with status 65280
+2018-02-02 16:03:25 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 16:03:25 worker[BusinessWorker:20156] exit with status 65280
+2018-02-02 16:06:28 Workerman[start.php] restart 
+2018-02-02 16:06:28 Workerman[start.php] is stoping ...
+2018-02-02 16:06:28 Workerman[start.php] Stopping ...
+2018-02-02 16:06:28 Workerman[start.php] has been stopped
+2018-02-02 16:06:28 Workerman[start.php] stop success
+2018-02-02 16:06:44 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 16:06:44 worker[BusinessWorker:20318] exit with status 65280
+2018-02-02 16:08:04 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 16:08:04 worker[BusinessWorker:20337] exit with status 65280
+2018-02-02 16:09:36 Workerman[start.php] restart 
+2018-02-02 16:09:36 Workerman[start.php] is stoping ...
+2018-02-02 16:09:36 Workerman[start.php] Stopping ...
+2018-02-02 16:09:36 Workerman[start.php] has been stopped
+2018-02-02 16:09:36 Workerman[start.php] stop success
+2018-02-02 16:09:53 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 16:09:53 worker[BusinessWorker:20479] exit with status 65280
+2018-02-02 16:10:57 Workerman[start.php] restart 
+2018-02-02 16:10:57 Workerman[start.php] is stoping ...
+2018-02-02 16:10:57 Workerman[start.php] Stopping ...
+2018-02-02 16:10:57 Workerman[start.php] has been stopped
+2018-02-02 16:10:57 Workerman[start.php] stop success
+2018-02-02 16:11:04 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 32
+2018-02-02 16:11:04 worker[BusinessWorker:20582] exit with status 65280
+2018-02-02 16:11:10 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 32
+2018-02-02 16:11:10 worker[BusinessWorker:20618] exit with status 65280
+2018-02-02 16:12:56 Workerman[start.php] restart 
+2018-02-02 16:12:56 Workerman[start.php] is stoping ...
+2018-02-02 16:12:56 Workerman[start.php] Stopping ...
+2018-02-02 16:12:56 Workerman[start.php] has been stopped
+2018-02-02 16:12:56 Workerman[start.php] stop success
+2018-02-02 16:13:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 34
+2018-02-02 16:13:08 worker[BusinessWorker:20688] exit with status 65280
+2018-02-02 17:05:40 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 34
+2018-02-02 17:05:40 worker[BusinessWorker:20730] exit with status 65280
+2018-02-02 17:05:49 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 34
+2018-02-02 17:05:49 worker[BusinessWorker:23266] exit with status 65280
+2018-02-02 17:08:13 Workerman[start.php] restart 
+2018-02-02 17:08:13 Workerman[start.php] is stoping ...
+2018-02-02 17:08:13 Workerman[start.php] Stopping ...
+2018-02-02 17:08:13 Workerman[start.php] has been stopped
+2018-02-02 17:08:13 Workerman[start.php] stop success
+2018-02-02 17:12:35 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 34
+2018-02-02 17:12:35 worker[BusinessWorker:23405] exit with status 65280
+2018-02-02 17:13:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 34
+2018-02-02 17:13:21 worker[BusinessWorker:23603] exit with status 65280
+2018-02-02 17:17:27 Workerman[start.php] restart 
+2018-02-02 17:17:27 Workerman[start.php] is stoping ...
+2018-02-02 17:17:27 Workerman[start.php] Stopping ...
+2018-02-02 17:17:27 Workerman[start.php] has been stopped
+2018-02-02 17:17:27 Workerman[start.php] stop success
+2018-02-02 17:17:39 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 34
+2018-02-02 17:17:39 worker[BusinessWorker:23872] exit with status 65280
+2018-02-02 17:17:48 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 34
+2018-02-02 17:17:48 worker[BusinessWorker:23880] exit with status 65280
+2018-02-02 17:21:28 Workerman[start.php] restart 
+2018-02-02 17:21:28 Workerman[start.php] is stoping ...
+2018-02-02 17:21:28 Workerman[start.php] Stopping ...
+2018-02-02 17:21:28 Workerman[start.php] has been stopped
+2018-02-02 17:21:28 Workerman[start.php] stop success
+2018-02-02 17:21:51 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 35
+2018-02-02 17:21:51 worker[BusinessWorker:24069] exit with status 65280
+2018-02-02 17:25:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 35
+2018-02-02 17:25:08 worker[BusinessWorker:24079] exit with status 65280
+2018-02-02 17:25:50 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 35
+2018-02-02 17:25:50 worker[BusinessWorker:24267] exit with status 65280
+2018-02-02 17:25:58 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 35
+2018-02-02 17:25:58 worker[BusinessWorker:24280] exit with status 65280
+2018-02-02 17:26:42 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 35
+2018-02-02 17:26:42 worker[BusinessWorker:24289] exit with status 65280
+2018-02-02 17:30:59 Workerman[start.php] restart 
+2018-02-02 17:30:59 Workerman[start.php] is stoping ...
+2018-02-02 17:30:59 Workerman[start.php] Stopping ...
+2018-02-02 17:30:59 Workerman[start.php] has been stopped
+2018-02-02 17:30:59 Workerman[start.php] stop success
+2018-02-02 17:31:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 35
+2018-02-02 17:31:08 worker[BusinessWorker:24543] exit with status 65280
+2018-02-02 17:31:11 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 17:31:11 worker[BusinessWorker:24578] exit with status 65280
+2018-02-02 17:31:34 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 35
+2018-02-02 17:31:34 worker[BusinessWorker:24579] exit with status 65280
+2018-02-02 17:31:35 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 17:31:35 worker[BusinessWorker:24586] exit with status 65280
+2018-02-02 17:32:38 Workerman[start.php] restart 
+2018-02-02 17:32:38 Workerman[start.php] is stoping ...
+2018-02-02 17:32:38 Workerman[start.php] Stopping ...
+2018-02-02 17:32:38 Workerman[start.php] has been stopped
+2018-02-02 17:32:38 Workerman[start.php] stop success
+2018-02-02 17:32:46 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 35
+2018-02-02 17:32:46 worker[BusinessWorker:24663] exit with status 65280
+2018-02-02 17:32:59 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 17:32:59 worker[BusinessWorker:24671] exit with status 65280
+2018-02-02 17:33:03 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 17:33:03 worker[BusinessWorker:24679] exit with status 65280
+2018-02-02 17:33:04 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 17:33:04 worker[BusinessWorker:24711] exit with status 65280
+2018-02-02 17:33:04 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 17:33:04 worker[BusinessWorker:24712] exit with status 65280
+2018-02-02 17:33:04 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 17:33:04 worker[BusinessWorker:24713] exit with status 65280
+2018-02-02 17:33:04 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 17:33:04 worker[BusinessWorker:24714] exit with status 65280
+2018-02-02 17:33:05 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 17:33:05 worker[BusinessWorker:24715] exit with status 65280
+2018-02-02 17:33:05 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 17:33:05 worker[BusinessWorker:24716] exit with status 65280
+2018-02-02 17:33:05 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 17:33:05 worker[BusinessWorker:24717] exit with status 65280
+2018-02-02 17:33:19 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 35
+2018-02-02 17:33:19 worker[BusinessWorker:24718] exit with status 65280
+2018-02-02 17:33:21 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 17:33:21 worker[BusinessWorker:24725] exit with status 65280
+2018-02-02 17:34:29 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 17:34:29 worker[BusinessWorker:24726] exit with status 65280
+2018-02-02 17:35:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 17:35:09 worker[BusinessWorker:24774] exit with status 65280
+2018-02-02 17:48:01 Workerman[start.php] restart 
+2018-02-02 17:48:01 Workerman[start.php] is stoping ...
+2018-02-02 17:48:01 Workerman[start.php] Stopping ...
+2018-02-02 17:48:01 Workerman[start.php] has been stopped
+2018-02-02 17:48:01 Workerman[start.php] stop success
+2018-02-02 17:48:20 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 35
+2018-02-02 17:48:20 worker[BusinessWorker:25479] exit with status 65280
+2018-02-02 17:48:24 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 17:48:24 worker[BusinessWorker:25524] exit with status 65280
+2018-02-02 17:48:34 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 17:48:34 worker[BusinessWorker:25526] exit with status 65280
+2018-02-02 17:52:02 Workerman[start.php] restart 
+2018-02-02 17:52:02 Workerman[start.php] is stoping ...
+2018-02-02 17:52:02 Workerman[start.php] Stopping ...
+2018-02-02 17:52:02 Workerman[start.php] has been stopped
+2018-02-02 17:52:02 Workerman[start.php] stop success
+2018-02-02 17:52:12 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 35
+2018-02-02 17:52:12 worker[BusinessWorker:25767] exit with status 65280
+2018-02-02 17:52:16 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 17:52:16 worker[BusinessWorker:25777] exit with status 65280
+2018-02-02 17:52:44 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 35
+2018-02-02 17:52:44 worker[BusinessWorker:25778] exit with status 65280
+2018-02-02 17:53:06 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 35
+2018-02-02 17:53:06 worker[BusinessWorker:25786] exit with status 65280
+2018-02-02 17:54:51 Workerman[start.php] restart 
+2018-02-02 17:54:51 Workerman[start.php] is stoping ...
+2018-02-02 17:54:51 Workerman[start.php] Stopping ...
+2018-02-02 17:54:51 Workerman[start.php] has been stopped
+2018-02-02 17:54:51 Workerman[start.php] stop success
+2018-02-02 17:55:00 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 35
+2018-02-02 17:55:00 worker[BusinessWorker:25893] exit with status 65280
+2018-02-02 17:55:05 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 35
+2018-02-02 17:55:05 worker[BusinessWorker:25902] exit with status 65280
+2018-02-02 17:55:57 Workerman[start.php] restart 
+2018-02-02 17:55:57 Workerman[start.php] is stoping ...
+2018-02-02 17:55:57 Workerman[start.php] Stopping ...
+2018-02-02 17:55:57 Workerman[start.php] has been stopped
+2018-02-02 17:55:57 Workerman[start.php] stop success
+2018-02-02 17:56:02 Workerman[start.php] restart 
+2018-02-02 17:56:02 Workerman[start.php] is stoping ...
+2018-02-02 17:56:02 Workerman[start.php] Stopping ...
+2018-02-02 17:56:02 Workerman[start.php] has been stopped
+2018-02-02 17:56:02 Workerman[start.php] stop success
+2018-02-02 17:56:11 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 36
+2018-02-02 17:56:11 worker[BusinessWorker:25992] exit with status 65280
+2018-02-02 17:58:23 Workerman[start.php] restart 
+2018-02-02 17:58:23 Workerman[start.php] is stoping ...
+2018-02-02 17:58:23 Workerman[start.php] Stopping ...
+2018-02-02 17:58:23 Workerman[start.php] has been stopped
+2018-02-02 17:58:23 Workerman[start.php] stop success
+2018-02-02 17:58:32 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 32
+2018-02-02 17:58:32 worker[BusinessWorker:26099] exit with status 65280
+2018-02-02 17:58:35 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 17:58:35 worker[BusinessWorker:26107] exit with status 65280
+2018-02-02 18:00:33 Workerman[start.php] restart 
+2018-02-02 18:00:33 Workerman[start.php] is stoping ...
+2018-02-02 18:00:33 Workerman[start.php] Stopping ...
+2018-02-02 18:00:33 Workerman[start.php] has been stopped
+2018-02-02 18:00:33 Workerman[start.php] stop success
+2018-02-02 18:00:40 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 33
+2018-02-02 18:00:40 worker[BusinessWorker:26213] exit with status 65280
+2018-02-02 18:00:58 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:00:58 worker[BusinessWorker:26221] exit with status 65280
+2018-02-02 18:00:58 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:00:58 worker[BusinessWorker:26230] exit with status 65280
+2018-02-02 18:00:59 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:00:59 worker[BusinessWorker:26231] exit with status 65280
+2018-02-02 18:00:59 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:00:59 worker[BusinessWorker:26232] exit with status 65280
+2018-02-02 18:00:59 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:00:59 worker[BusinessWorker:26233] exit with status 65280
+2018-02-02 18:00:59 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:00:59 worker[BusinessWorker:26234] exit with status 65280
+2018-02-02 18:00:59 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:00:59 worker[BusinessWorker:26235] exit with status 65280
+2018-02-02 18:01:23 Workerman[start.php] restart 
+2018-02-02 18:01:23 Workerman[start.php] is stoping ...
+2018-02-02 18:01:23 Workerman[start.php] Stopping ...
+2018-02-02 18:01:23 Workerman[start.php] has been stopped
+2018-02-02 18:01:23 Workerman[start.php] stop success
+2018-02-02 18:01:34 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 33
+2018-02-02 18:01:34 worker[BusinessWorker:26294] exit with status 65280
+2018-02-02 18:01:39 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:01:39 worker[BusinessWorker:26302] exit with status 65280
+2018-02-02 18:02:00 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 33
+2018-02-02 18:02:00 worker[BusinessWorker:26305] exit with status 65280
+2018-02-02 18:02:03 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:02:03 worker[BusinessWorker:26315] exit with status 65280
+2018-02-02 18:02:03 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:02:03 worker[BusinessWorker:26345] exit with status 65280
+2018-02-02 18:02:04 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:02:04 worker[BusinessWorker:26346] exit with status 65280
+2018-02-02 18:02:04 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:02:04 worker[BusinessWorker:26347] exit with status 65280
+2018-02-02 18:02:04 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:02:04 worker[BusinessWorker:26348] exit with status 65280
+2018-02-02 18:02:04 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:02:04 worker[BusinessWorker:26349] exit with status 65280
+2018-02-02 18:02:05 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:02:05 worker[BusinessWorker:26350] exit with status 65280
+2018-02-02 18:02:05 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:02:05 worker[BusinessWorker:26351] exit with status 65280
+2018-02-02 18:02:05 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:02:05 worker[BusinessWorker:26352] exit with status 65280
+2018-02-02 18:04:26 Workerman[start.php] restart 
+2018-02-02 18:04:26 Workerman[start.php] is stoping ...
+2018-02-02 18:04:26 Workerman[start.php] Stopping ...
+2018-02-02 18:04:26 Workerman[start.php] has been stopped
+2018-02-02 18:04:26 Workerman[start.php] stop success
+2018-02-02 18:04:39 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 35
+2018-02-02 18:04:39 worker[BusinessWorker:26475] exit with status 65280
+2018-02-02 18:04:43 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:04:43 worker[BusinessWorker:26485] exit with status 65280
+2018-02-02 18:05:25 Workerman[start.php] restart 
+2018-02-02 18:05:25 Workerman[start.php] is stoping ...
+2018-02-02 18:05:25 Workerman[start.php] Stopping ...
+2018-02-02 18:05:25 Workerman[start.php] has been stopped
+2018-02-02 18:05:25 Workerman[start.php] stop success
+2018-02-02 18:05:32 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 35
+2018-02-02 18:05:32 worker[BusinessWorker:26534] exit with status 65280
+2018-02-02 18:05:33 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:05:33 worker[BusinessWorker:26542] exit with status 65280
+2018-02-02 18:05:52 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 35
+2018-02-02 18:05:52 worker[BusinessWorker:26543] exit with status 65280
+2018-02-02 18:05:53 WORKER EXIT UNEXPECTED E_ERROR Class 'Gateway' not found in /home/hippo/Applications/Logic/TalkLogic.php on line 18
+2018-02-02 18:05:53 worker[BusinessWorker:26552] exit with status 65280
+2018-02-02 18:07:02 Workerman[start.php] restart 
+2018-02-02 18:07:02 Workerman[start.php] is stoping ...
+2018-02-02 18:07:02 Workerman[start.php] Stopping ...
+2018-02-02 18:07:02 Workerman[start.php] has been stopped
+2018-02-02 18:07:02 Workerman[start.php] stop success
+2018-02-02 18:19:52 Workerman[start.php] restart 
+2018-02-02 18:19:52 Workerman[start.php] is stoping ...
+2018-02-02 18:19:52 Workerman[start.php] Stopping ...
+2018-02-02 18:19:52 Workerman[start.php] has been stopped
+2018-02-02 18:19:52 Workerman[start.php] stop success
+2018-02-02 18:21:02 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-02 18:21:02 worker[BusinessWorker:27216] exit with status 65280
+2018-02-05 13:34:28 Workerman[start.php] restart 
+2018-02-05 13:34:28 Workerman[start.php] is stoping ...
+2018-02-05 13:34:28 Workerman[start.php] Stopping ...
+2018-02-05 13:34:28 Workerman[start.php] has been stopped
+2018-02-05 13:34:28 Workerman[start.php] stop success
+2018-02-05 13:42:18 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-05 13:42:18 worker[BusinessWorker:24355] exit with status 65280
+2018-02-05 13:53:05 Workerman[start.php] restart 
+2018-02-05 13:53:05 Workerman[start.php] is stoping ...
+2018-02-05 13:53:05 Workerman[start.php] Stopping ...
+2018-02-05 13:53:05 Workerman[start.php] has been stopped
+2018-02-05 13:53:05 Workerman[start.php] stop success
+2018-02-05 13:59:36 Workerman[start.php] restart 
+2018-02-05 13:59:36 Workerman[start.php] is stoping ...
+2018-02-05 13:59:36 Workerman[start.php] Stopping ...
+2018-02-05 13:59:36 Workerman[start.php] has been stopped
+2018-02-05 13:59:36 Workerman[start.php] stop success
+2018-02-05 14:00:13 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-05 14:00:13 worker[BusinessWorker:25660] exit with status 65280
+2018-02-05 14:07:17 Workerman[start.php] restart 
+2018-02-05 14:07:17 Workerman[start.php] is stoping ...
+2018-02-05 14:07:17 Workerman[start.php] Stopping ...
+2018-02-05 14:07:17 Workerman[start.php] has been stopped
+2018-02-05 14:07:17 Workerman[start.php] stop success
+2018-02-05 14:07:47 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-05 14:07:47 worker[BusinessWorker:26070] exit with status 65280
+2018-02-05 14:20:47 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-05 14:20:47 worker[BusinessWorker:26082] exit with status 65280
+2018-02-05 14:21:35 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-05 14:21:35 worker[BusinessWorker:26768] exit with status 65280
+2018-02-05 14:22:33 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-05 14:22:33 worker[BusinessWorker:26813] exit with status 65280
+2018-02-05 14:24:51 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-05 14:24:51 worker[BusinessWorker:26859] exit with status 65280
+2018-02-05 14:27:54 Workerman[start.php] restart 
+2018-02-05 14:27:54 Workerman[start.php] is stoping ...
+2018-02-05 14:27:54 Workerman[start.php] Stopping ...
+2018-02-05 14:27:54 Workerman[start.php] has been stopped
+2018-02-05 14:27:54 Workerman[start.php] stop success
+2018-02-05 14:28:49 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-05 14:28:49 worker[BusinessWorker:27109] exit with status 65280
+2018-02-05 14:29:32 client_id:7f0000010ed800000004	client_ip:3232235844
+exception 'Exception' with message 'Query Invalid[1048]:Column 'fromuser' cannot be null' in /home/OdinProject/Odin/Mysql/IDatabase.php:39
+Stack trace:
+#0 /home/OdinProject/Odin/Mysql/IDatabase.php(96): IDatabase->bind_execute('Insert into `ta...', Array, false)
+#1 /home/OdinProject/Odin/Mysql/ActiveRecord.php(281): IDatabase->runSql('Insert into `ta...', Array)
+#2 /home/hippo/Applications/Logic/TalkLogic.php(26): ActiveRecord->save()
+#3 /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php(22): TalkLogic::sendToUid('7f0000010ed8000...', Array)
+#4 /home/OdinProject/Odin/SocketBase/Event.php(165): LogicBase::doAction('sendToUid', '7f0000010ed8000...', Array, NULL)
+#5 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(241): Event::onMessage('7f0000010ed8000...', ' { "path" : "13...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 /home/OdinProject/Odin/Workerman/Connection/TcpConnection.php(435): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #63)
+#9 /home/OdinProject/Odin/Workerman/Events/Select.php(260): call_user_func_array(Array, Array)
+#10 /home/OdinProject/Odin/Workerman/Worker.php(1491): Workerman\Events\Select->loop()
+#11 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(104): Workerman\Worker->run()
+#12 /home/OdinProject/Odin/Workerman/Worker.php(900): GatewayWorker\BusinessWorker->run()
+#13 /home/OdinProject/Odin/Workerman/Worker.php(860): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#14 /home/OdinProject/Odin/Workerman/Worker.php(1032): Workerman\Worker::forkWorkers()
+#15 /home/OdinProject/Odin/Workerman/Worker.php(393): Workerman\Worker::monitorWorkers()
+#16 /home/hippo/start.php(49): Workerman\Worker::runAll()
+#17 {main}
+2018-02-05 14:29:38 client_id:7f0000010ed800000004	client_ip:3232235844
+exception 'Exception' with message 'Query Invalid[1048]:Column 'fromuser' cannot be null' in /home/OdinProject/Odin/Mysql/IDatabase.php:39
+Stack trace:
+#0 /home/OdinProject/Odin/Mysql/IDatabase.php(96): IDatabase->bind_execute('Insert into `ta...', Array, false)
+#1 /home/OdinProject/Odin/Mysql/ActiveRecord.php(281): IDatabase->runSql('Insert into `ta...', Array)
+#2 /home/hippo/Applications/Logic/TalkLogic.php(26): ActiveRecord->save()
+#3 /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php(22): TalkLogic::sendToUid('7f0000010ed8000...', Array)
+#4 /home/OdinProject/Odin/SocketBase/Event.php(165): LogicBase::doAction('sendToUid', '7f0000010ed8000...', Array, NULL)
+#5 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(241): Event::onMessage('7f0000010ed8000...', ' { "path" : "13...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 /home/OdinProject/Odin/Workerman/Connection/TcpConnection.php(435): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #63)
+#9 /home/OdinProject/Odin/Workerman/Events/Select.php(260): call_user_func_array(Array, Array)
+#10 /home/OdinProject/Odin/Workerman/Worker.php(1491): Workerman\Events\Select->loop()
+#11 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(104): Workerman\Worker->run()
+#12 /home/OdinProject/Odin/Workerman/Worker.php(900): GatewayWorker\BusinessWorker->run()
+#13 /home/OdinProject/Odin/Workerman/Worker.php(860): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#14 /home/OdinProject/Odin/Workerman/Worker.php(1032): Workerman\Worker::forkWorkers()
+#15 /home/OdinProject/Odin/Workerman/Worker.php(393): Workerman\Worker::monitorWorkers()
+#16 /home/hippo/start.php(49): Workerman\Worker::runAll()
+#17 {main}
+2018-02-05 14:32:13 client_id:7f0000010ed800000004	client_ip:3232235844
+exception 'Exception' with message 'Query Invalid[1048]:Column 'fromuser' cannot be null' in /home/OdinProject/Odin/Mysql/IDatabase.php:39
+Stack trace:
+#0 /home/OdinProject/Odin/Mysql/IDatabase.php(96): IDatabase->bind_execute('Insert into `ta...', Array, false)
+#1 /home/OdinProject/Odin/Mysql/ActiveRecord.php(281): IDatabase->runSql('Insert into `ta...', Array)
+#2 /home/hippo/Applications/Logic/TalkLogic.php(26): ActiveRecord->save()
+#3 /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php(22): TalkLogic::sendToUid('7f0000010ed8000...', Array)
+#4 /home/OdinProject/Odin/SocketBase/Event.php(165): LogicBase::doAction('sendToUid', '7f0000010ed8000...', Array, NULL)
+#5 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(241): Event::onMessage('7f0000010ed8000...', ' { "path" : "13...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 /home/OdinProject/Odin/Workerman/Connection/TcpConnection.php(435): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #63)
+#9 /home/OdinProject/Odin/Workerman/Events/Select.php(260): call_user_func_array(Array, Array)
+#10 /home/OdinProject/Odin/Workerman/Worker.php(1491): Workerman\Events\Select->loop()
+#11 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(104): Workerman\Worker->run()
+#12 /home/OdinProject/Odin/Workerman/Worker.php(900): GatewayWorker\BusinessWorker->run()
+#13 /home/OdinProject/Odin/Workerman/Worker.php(860): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#14 /home/OdinProject/Odin/Workerman/Worker.php(1032): Workerman\Worker::forkWorkers()
+#15 /home/OdinProject/Odin/Workerman/Worker.php(393): Workerman\Worker::monitorWorkers()
+#16 /home/hippo/start.php(49): Workerman\Worker::runAll()
+#17 {main}
+2018-02-05 14:32:25 client_id:7f0000010ed800000004	client_ip:3232235844
+exception 'Exception' with message 'Query Invalid[1048]:Column 'fromuser' cannot be null' in /home/OdinProject/Odin/Mysql/IDatabase.php:39
+Stack trace:
+#0 /home/OdinProject/Odin/Mysql/IDatabase.php(96): IDatabase->bind_execute('Insert into `ta...', Array, false)
+#1 /home/OdinProject/Odin/Mysql/ActiveRecord.php(281): IDatabase->runSql('Insert into `ta...', Array)
+#2 /home/hippo/Applications/Logic/TalkLogic.php(26): ActiveRecord->save()
+#3 /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php(22): TalkLogic::sendToUid('7f0000010ed8000...', Array)
+#4 /home/OdinProject/Odin/SocketBase/Event.php(165): LogicBase::doAction('sendToUid', '7f0000010ed8000...', Array, NULL)
+#5 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(241): Event::onMessage('7f0000010ed8000...', ' { "path" : "13...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 /home/OdinProject/Odin/Workerman/Connection/TcpConnection.php(435): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #63)
+#9 /home/OdinProject/Odin/Workerman/Events/Select.php(260): call_user_func_array(Array, Array)
+#10 /home/OdinProject/Odin/Workerman/Worker.php(1491): Workerman\Events\Select->loop()
+#11 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(104): Workerman\Worker->run()
+#12 /home/OdinProject/Odin/Workerman/Worker.php(900): GatewayWorker\BusinessWorker->run()
+#13 /home/OdinProject/Odin/Workerman/Worker.php(860): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#14 /home/OdinProject/Odin/Workerman/Worker.php(1032): Workerman\Worker::forkWorkers()
+#15 /home/OdinProject/Odin/Workerman/Worker.php(393): Workerman\Worker::monitorWorkers()
+#16 /home/hippo/start.php(49): Workerman\Worker::runAll()
+#17 {main}
+2018-02-05 14:32:39 client_id:7f0000010ed800000004	client_ip:3232235844
+exception 'Exception' with message 'Query Invalid[1048]:Column 'fromuser' cannot be null' in /home/OdinProject/Odin/Mysql/IDatabase.php:39
+Stack trace:
+#0 /home/OdinProject/Odin/Mysql/IDatabase.php(96): IDatabase->bind_execute('Insert into `ta...', Array, false)
+#1 /home/OdinProject/Odin/Mysql/ActiveRecord.php(281): IDatabase->runSql('Insert into `ta...', Array)
+#2 /home/hippo/Applications/Logic/TalkLogic.php(26): ActiveRecord->save()
+#3 /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php(22): TalkLogic::sendToUid('7f0000010ed8000...', Array)
+#4 /home/OdinProject/Odin/SocketBase/Event.php(165): LogicBase::doAction('sendToUid', '7f0000010ed8000...', Array, NULL)
+#5 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(241): Event::onMessage('7f0000010ed8000...', ' { "path" : "13...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 /home/OdinProject/Odin/Workerman/Connection/TcpConnection.php(435): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #63)
+#9 /home/OdinProject/Odin/Workerman/Events/Select.php(260): call_user_func_array(Array, Array)
+#10 /home/OdinProject/Odin/Workerman/Worker.php(1491): Workerman\Events\Select->loop()
+#11 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(104): Workerman\Worker->run()
+#12 /home/OdinProject/Odin/Workerman/Worker.php(900): GatewayWorker\BusinessWorker->run()
+#13 /home/OdinProject/Odin/Workerman/Worker.php(860): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#14 /home/OdinProject/Odin/Workerman/Worker.php(1032): Workerman\Worker::forkWorkers()
+#15 /home/OdinProject/Odin/Workerman/Worker.php(393): Workerman\Worker::monitorWorkers()
+#16 /home/hippo/start.php(49): Workerman\Worker::runAll()
+#17 {main}
+2018-02-05 14:46:38 Workerman[start.php] restart 
+2018-02-05 14:46:38 Workerman[start.php] is stoping ...
+2018-02-05 14:46:38 Workerman[start.php] Stopping ...
+2018-02-05 14:46:38 Workerman[start.php] has been stopped
+2018-02-05 14:46:38 Workerman[start.php] stop success
+2018-02-05 14:47:27 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-05 14:47:27 worker[BusinessWorker:28022] exit with status 65280
+2018-02-05 14:47:30 client_id:7f0000010ed800000003	client_ip:3232235844
+exception 'Exception' with message 'Query Invalid[1048]:Column 'fromuser' cannot be null' in /home/OdinProject/Odin/Mysql/IDatabase.php:39
+Stack trace:
+#0 /home/OdinProject/Odin/Mysql/IDatabase.php(96): IDatabase->bind_execute('Insert into `ta...', Array, false)
+#1 /home/OdinProject/Odin/Mysql/ActiveRecord.php(281): IDatabase->runSql('Insert into `ta...', Array)
+#2 /home/hippo/Applications/Logic/TalkLogic.php(27): ActiveRecord->save()
+#3 /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php(22): TalkLogic::sendToUid('7f0000010ed8000...', Array)
+#4 /home/OdinProject/Odin/SocketBase/Event.php(165): LogicBase::doAction('sendToUid', '7f0000010ed8000...', Array, NULL)
+#5 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(241): Event::onMessage('7f0000010ed8000...', ' { "path" : "13...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 /home/OdinProject/Odin/Workerman/Connection/TcpConnection.php(435): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #64)
+#9 /home/OdinProject/Odin/Workerman/Events/Select.php(260): call_user_func_array(Array, Array)
+#10 /home/OdinProject/Odin/Workerman/Worker.php(1491): Workerman\Events\Select->loop()
+#11 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(104): Workerman\Worker->run()
+#12 /home/OdinProject/Odin/Workerman/Worker.php(900): GatewayWorker\BusinessWorker->run()
+#13 /home/OdinProject/Odin/Workerman/Worker.php(860): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#14 /home/OdinProject/Odin/Workerman/Worker.php(1032): Workerman\Worker::forkWorkers()
+#15 /home/OdinProject/Odin/Workerman/Worker.php(393): Workerman\Worker::monitorWorkers()
+#16 /home/hippo/start.php(49): Workerman\Worker::runAll()
+#17 {main}
+2018-02-05 14:48:07 client_id:7f0000010ed800000003	client_ip:3232235844
+exception 'Exception' with message 'Query Invalid[1048]:Column 'fromuser' cannot be null' in /home/OdinProject/Odin/Mysql/IDatabase.php:39
+Stack trace:
+#0 /home/OdinProject/Odin/Mysql/IDatabase.php(96): IDatabase->bind_execute('Insert into `ta...', Array, false)
+#1 /home/OdinProject/Odin/Mysql/ActiveRecord.php(281): IDatabase->runSql('Insert into `ta...', Array)
+#2 /home/hippo/Applications/Logic/TalkLogic.php(27): ActiveRecord->save()
+#3 /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php(22): TalkLogic::sendToUid('7f0000010ed8000...', Array)
+#4 /home/OdinProject/Odin/SocketBase/Event.php(165): LogicBase::doAction('sendToUid', '7f0000010ed8000...', Array, NULL)
+#5 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(241): Event::onMessage('7f0000010ed8000...', ' { "path" : "13...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 /home/OdinProject/Odin/Workerman/Connection/TcpConnection.php(435): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #64)
+#9 /home/OdinProject/Odin/Workerman/Events/Select.php(260): call_user_func_array(Array, Array)
+#10 /home/OdinProject/Odin/Workerman/Worker.php(1491): Workerman\Events\Select->loop()
+#11 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(104): Workerman\Worker->run()
+#12 /home/OdinProject/Odin/Workerman/Worker.php(900): GatewayWorker\BusinessWorker->run()
+#13 /home/OdinProject/Odin/Workerman/Worker.php(860): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#14 /home/OdinProject/Odin/Workerman/Worker.php(1032): Workerman\Worker::forkWorkers()
+#15 /home/OdinProject/Odin/Workerman/Worker.php(393): Workerman\Worker::monitorWorkers()
+#16 /home/hippo/start.php(49): Workerman\Worker::runAll()
+#17 {main}
+2018-02-05 14:48:08 client_id:7f0000010ed800000003	client_ip:3232235844
+exception 'Exception' with message 'Query Invalid[1048]:Column 'fromuser' cannot be null' in /home/OdinProject/Odin/Mysql/IDatabase.php:39
+Stack trace:
+#0 /home/OdinProject/Odin/Mysql/IDatabase.php(96): IDatabase->bind_execute('Insert into `ta...', Array, false)
+#1 /home/OdinProject/Odin/Mysql/ActiveRecord.php(281): IDatabase->runSql('Insert into `ta...', Array)
+#2 /home/hippo/Applications/Logic/TalkLogic.php(27): ActiveRecord->save()
+#3 /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php(22): TalkLogic::sendToUid('7f0000010ed8000...', Array)
+#4 /home/OdinProject/Odin/SocketBase/Event.php(165): LogicBase::doAction('sendToUid', '7f0000010ed8000...', Array, NULL)
+#5 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(241): Event::onMessage('7f0000010ed8000...', ' { "path" : "13...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 /home/OdinProject/Odin/Workerman/Connection/TcpConnection.php(435): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #64)
+#9 /home/OdinProject/Odin/Workerman/Events/Select.php(260): call_user_func_array(Array, Array)
+#10 /home/OdinProject/Odin/Workerman/Worker.php(1491): Workerman\Events\Select->loop()
+#11 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(104): Workerman\Worker->run()
+#12 /home/OdinProject/Odin/Workerman/Worker.php(900): GatewayWorker\BusinessWorker->run()
+#13 /home/OdinProject/Odin/Workerman/Worker.php(860): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#14 /home/OdinProject/Odin/Workerman/Worker.php(1032): Workerman\Worker::forkWorkers()
+#15 /home/OdinProject/Odin/Workerman/Worker.php(393): Workerman\Worker::monitorWorkers()
+#16 /home/hippo/start.php(49): Workerman\Worker::runAll()
+#17 {main}
+2018-02-05 14:48:08 client_id:7f0000010ed800000003	client_ip:3232235844
+exception 'Exception' with message 'Query Invalid[1048]:Column 'fromuser' cannot be null' in /home/OdinProject/Odin/Mysql/IDatabase.php:39
+Stack trace:
+#0 /home/OdinProject/Odin/Mysql/IDatabase.php(96): IDatabase->bind_execute('Insert into `ta...', Array, false)
+#1 /home/OdinProject/Odin/Mysql/ActiveRecord.php(281): IDatabase->runSql('Insert into `ta...', Array)
+#2 /home/hippo/Applications/Logic/TalkLogic.php(27): ActiveRecord->save()
+#3 /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php(22): TalkLogic::sendToUid('7f0000010ed8000...', Array)
+#4 /home/OdinProject/Odin/SocketBase/Event.php(165): LogicBase::doAction('sendToUid', '7f0000010ed8000...', Array, NULL)
+#5 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(241): Event::onMessage('7f0000010ed8000...', ' { "path" : "13...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 /home/OdinProject/Odin/Workerman/Connection/TcpConnection.php(435): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #64)
+#9 /home/OdinProject/Odin/Workerman/Events/Select.php(260): call_user_func_array(Array, Array)
+#10 /home/OdinProject/Odin/Workerman/Worker.php(1491): Workerman\Events\Select->loop()
+#11 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(104): Workerman\Worker->run()
+#12 /home/OdinProject/Odin/Workerman/Worker.php(900): GatewayWorker\BusinessWorker->run()
+#13 /home/OdinProject/Odin/Workerman/Worker.php(860): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#14 /home/OdinProject/Odin/Workerman/Worker.php(1032): Workerman\Worker::forkWorkers()
+#15 /home/OdinProject/Odin/Workerman/Worker.php(393): Workerman\Worker::monitorWorkers()
+#16 /home/hippo/start.php(49): Workerman\Worker::runAll()
+#17 {main}
+2018-02-05 14:48:09 client_id:7f0000010ed800000003	client_ip:3232235844
+exception 'Exception' with message 'Query Invalid[1048]:Column 'fromuser' cannot be null' in /home/OdinProject/Odin/Mysql/IDatabase.php:39
+Stack trace:
+#0 /home/OdinProject/Odin/Mysql/IDatabase.php(96): IDatabase->bind_execute('Insert into `ta...', Array, false)
+#1 /home/OdinProject/Odin/Mysql/ActiveRecord.php(281): IDatabase->runSql('Insert into `ta...', Array)
+#2 /home/hippo/Applications/Logic/TalkLogic.php(27): ActiveRecord->save()
+#3 /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php(22): TalkLogic::sendToUid('7f0000010ed8000...', Array)
+#4 /home/OdinProject/Odin/SocketBase/Event.php(165): LogicBase::doAction('sendToUid', '7f0000010ed8000...', Array, NULL)
+#5 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(241): Event::onMessage('7f0000010ed8000...', ' { "path" : "13...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 /home/OdinProject/Odin/Workerman/Connection/TcpConnection.php(435): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #64)
+#9 /home/OdinProject/Odin/Workerman/Events/Select.php(260): call_user_func_array(Array, Array)
+#10 /home/OdinProject/Odin/Workerman/Worker.php(1491): Workerman\Events\Select->loop()
+#11 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(104): Workerman\Worker->run()
+#12 /home/OdinProject/Odin/Workerman/Worker.php(900): GatewayWorker\BusinessWorker->run()
+#13 /home/OdinProject/Odin/Workerman/Worker.php(860): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#14 /home/OdinProject/Odin/Workerman/Worker.php(1032): Workerman\Worker::forkWorkers()
+#15 /home/OdinProject/Odin/Workerman/Worker.php(393): Workerman\Worker::monitorWorkers()
+#16 /home/hippo/start.php(49): Workerman\Worker::runAll()
+#17 {main}
+2018-02-05 14:48:09 client_id:7f0000010ed800000003	client_ip:3232235844
+exception 'Exception' with message 'Query Invalid[1048]:Column 'fromuser' cannot be null' in /home/OdinProject/Odin/Mysql/IDatabase.php:39
+Stack trace:
+#0 /home/OdinProject/Odin/Mysql/IDatabase.php(96): IDatabase->bind_execute('Insert into `ta...', Array, false)
+#1 /home/OdinProject/Odin/Mysql/ActiveRecord.php(281): IDatabase->runSql('Insert into `ta...', Array)
+#2 /home/hippo/Applications/Logic/TalkLogic.php(27): ActiveRecord->save()
+#3 /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php(22): TalkLogic::sendToUid('7f0000010ed8000...', Array)
+#4 /home/OdinProject/Odin/SocketBase/Event.php(165): LogicBase::doAction('sendToUid', '7f0000010ed8000...', Array, NULL)
+#5 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(241): Event::onMessage('7f0000010ed8000...', ' { "path" : "13...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 /home/OdinProject/Odin/Workerman/Connection/TcpConnection.php(435): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #64)
+#9 /home/OdinProject/Odin/Workerman/Events/Select.php(260): call_user_func_array(Array, Array)
+#10 /home/OdinProject/Odin/Workerman/Worker.php(1491): Workerman\Events\Select->loop()
+#11 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(104): Workerman\Worker->run()
+#12 /home/OdinProject/Odin/Workerman/Worker.php(900): GatewayWorker\BusinessWorker->run()
+#13 /home/OdinProject/Odin/Workerman/Worker.php(860): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#14 /home/OdinProject/Odin/Workerman/Worker.php(1032): Workerman\Worker::forkWorkers()
+#15 /home/OdinProject/Odin/Workerman/Worker.php(393): Workerman\Worker::monitorWorkers()
+#16 /home/hippo/start.php(49): Workerman\Worker::runAll()
+#17 {main}
+2018-02-05 14:51:59 client_id:7f0000010ed800000003	client_ip:3232235844
+exception 'Exception' with message 'Query Invalid[1048]:Column 'fromuser' cannot be null' in /home/OdinProject/Odin/Mysql/IDatabase.php:39
+Stack trace:
+#0 /home/OdinProject/Odin/Mysql/IDatabase.php(96): IDatabase->bind_execute('Insert into `ta...', Array, false)
+#1 /home/OdinProject/Odin/Mysql/ActiveRecord.php(281): IDatabase->runSql('Insert into `ta...', Array)
+#2 /home/hippo/Applications/Logic/TalkLogic.php(27): ActiveRecord->save()
+#3 /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php(22): TalkLogic::sendToUid('7f0000010ed8000...', Array)
+#4 /home/OdinProject/Odin/SocketBase/Event.php(165): LogicBase::doAction('sendToUid', '7f0000010ed8000...', Array, NULL)
+#5 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(241): Event::onMessage('7f0000010ed8000...', ' { "path" : "13...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 /home/OdinProject/Odin/Workerman/Connection/TcpConnection.php(435): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #64)
+#9 /home/OdinProject/Odin/Workerman/Events/Select.php(260): call_user_func_array(Array, Array)
+#10 /home/OdinProject/Odin/Workerman/Worker.php(1491): Workerman\Events\Select->loop()
+#11 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(104): Workerman\Worker->run()
+#12 /home/OdinProject/Odin/Workerman/Worker.php(900): GatewayWorker\BusinessWorker->run()
+#13 /home/OdinProject/Odin/Workerman/Worker.php(860): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#14 /home/OdinProject/Odin/Workerman/Worker.php(1032): Workerman\Worker::forkWorkers()
+#15 /home/OdinProject/Odin/Workerman/Worker.php(393): Workerman\Worker::monitorWorkers()
+#16 /home/hippo/start.php(49): Workerman\Worker::runAll()
+#17 {main}
+2018-02-05 15:12:47 Workerman[start.php] restart 
+2018-02-05 15:12:47 Workerman[start.php] is stoping ...
+2018-02-05 15:12:47 Workerman[start.php] Stopping ...
+2018-02-05 15:12:47 Workerman[start.php] has been stopped
+2018-02-05 15:12:47 Workerman[start.php] stop success
+2018-02-05 15:13:41 Workerman[start.php] restart 
+2018-02-05 15:13:41 Workerman[start.php] is stoping ...
+2018-02-05 15:13:41 Workerman[start.php] Stopping ...
+2018-02-05 15:13:41 Workerman[start.php] has been stopped
+2018-02-05 15:13:41 Workerman[start.php] stop success
+2018-02-05 15:13:51 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-05 15:13:51 worker[BusinessWorker:29404] exit with status 65280
+2018-02-05 15:18:15 Workerman[start.php] restart 
+2018-02-05 15:18:15 Workerman[start.php] is stoping ...
+2018-02-05 15:18:15 Workerman[start.php] Stopping ...
+2018-02-05 15:18:15 Workerman[start.php] has been stopped
+2018-02-05 15:18:15 Workerman[start.php] stop success
+2018-02-05 15:21:18 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-05 15:21:18 worker[BusinessWorker:29635] exit with status 65280
+2018-02-05 15:22:05 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-05 15:22:05 worker[BusinessWorker:29815] exit with status 65280
+2018-02-05 15:22:15 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-05 15:22:15 worker[BusinessWorker:29859] exit with status 65280
+2018-02-05 15:25:55 client_id:7f0000010ed800000009	client_ip:3232235844
+exception 'Exception' with message 'Query Invalid[1048]:Column 'fromuser' cannot be null' in /home/OdinProject/Odin/Mysql/IDatabase.php:39
+Stack trace:
+#0 /home/OdinProject/Odin/Mysql/IDatabase.php(96): IDatabase->bind_execute('Insert into `ta...', Array, false)
+#1 /home/OdinProject/Odin/Mysql/ActiveRecord.php(281): IDatabase->runSql('Insert into `ta...', Array)
+#2 /home/hippo/Applications/Logic/TalkLogic.php(31): ActiveRecord->save()
+#3 /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php(22): TalkLogic::sendToUid('7f0000010ed8000...', Array)
+#4 /home/OdinProject/Odin/SocketBase/Event.php(165): LogicBase::doAction('sendToUid', '7f0000010ed8000...', Array, NULL)
+#5 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(241): Event::onMessage('7f0000010ed8000...', ' { "path" : "13...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 /home/OdinProject/Odin/Workerman/Connection/TcpConnection.php(435): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #65)
+#9 /home/OdinProject/Odin/Workerman/Events/Select.php(260): call_user_func_array(Array, Array)
+#10 /home/OdinProject/Odin/Workerman/Worker.php(1491): Workerman\Events\Select->loop()
+#11 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(104): Workerman\Worker->run()
+#12 /home/OdinProject/Odin/Workerman/Worker.php(900): GatewayWorker\BusinessWorker->run()
+#13 /home/OdinProject/Odin/Workerman/Worker.php(860): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#14 /home/OdinProject/Odin/Workerman/Worker.php(1032): Workerman\Worker::forkWorkers()
+#15 /home/OdinProject/Odin/Workerman/Worker.php(393): Workerman\Worker::monitorWorkers()
+#16 /home/hippo/start.php(49): Workerman\Worker::runAll()
+#17 {main}
+2018-02-05 15:25:56 client_id:7f0000010ed800000009	client_ip:3232235844
+exception 'Exception' with message 'Query Invalid[1048]:Column 'fromuser' cannot be null' in /home/OdinProject/Odin/Mysql/IDatabase.php:39
+Stack trace:
+#0 /home/OdinProject/Odin/Mysql/IDatabase.php(96): IDatabase->bind_execute('Insert into `ta...', Array, false)
+#1 /home/OdinProject/Odin/Mysql/ActiveRecord.php(281): IDatabase->runSql('Insert into `ta...', Array)
+#2 /home/hippo/Applications/Logic/TalkLogic.php(31): ActiveRecord->save()
+#3 /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php(22): TalkLogic::sendToUid('7f0000010ed8000...', Array)
+#4 /home/OdinProject/Odin/SocketBase/Event.php(165): LogicBase::doAction('sendToUid', '7f0000010ed8000...', Array, NULL)
+#5 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(241): Event::onMessage('7f0000010ed8000...', ' { "path" : "13...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 /home/OdinProject/Odin/Workerman/Connection/TcpConnection.php(435): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #65)
+#9 /home/OdinProject/Odin/Workerman/Events/Select.php(260): call_user_func_array(Array, Array)
+#10 /home/OdinProject/Odin/Workerman/Worker.php(1491): Workerman\Events\Select->loop()
+#11 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(104): Workerman\Worker->run()
+#12 /home/OdinProject/Odin/Workerman/Worker.php(900): GatewayWorker\BusinessWorker->run()
+#13 /home/OdinProject/Odin/Workerman/Worker.php(860): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#14 /home/OdinProject/Odin/Workerman/Worker.php(1032): Workerman\Worker::forkWorkers()
+#15 /home/OdinProject/Odin/Workerman/Worker.php(393): Workerman\Worker::monitorWorkers()
+#16 /home/hippo/start.php(49): Workerman\Worker::runAll()
+#17 {main}
+2018-02-05 15:26:06 client_id:7f0000010ed800000009	client_ip:3232235844
+exception 'Exception' with message 'Query Invalid[1048]:Column 'fromuser' cannot be null' in /home/OdinProject/Odin/Mysql/IDatabase.php:39
+Stack trace:
+#0 /home/OdinProject/Odin/Mysql/IDatabase.php(96): IDatabase->bind_execute('Insert into `ta...', Array, false)
+#1 /home/OdinProject/Odin/Mysql/ActiveRecord.php(281): IDatabase->runSql('Insert into `ta...', Array)
+#2 /home/hippo/Applications/Logic/TalkLogic.php(31): ActiveRecord->save()
+#3 /home/OdinProject/Odin/SocketBase/Logic/LogicBase.php(22): TalkLogic::sendToUid('7f0000010ed8000...', Array)
+#4 /home/OdinProject/Odin/SocketBase/Event.php(165): LogicBase::doAction('sendToUid', '7f0000010ed8000...', Array, NULL)
+#5 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(241): Event::onMessage('7f0000010ed8000...', ' { "path" : "13...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 /home/OdinProject/Odin/Workerman/Connection/TcpConnection.php(435): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #65)
+#9 /home/OdinProject/Odin/Workerman/Events/Select.php(260): call_user_func_array(Array, Array)
+#10 /home/OdinProject/Odin/Workerman/Worker.php(1491): Workerman\Events\Select->loop()
+#11 /home/OdinProject/Odin/GatewayWorker/BusinessWorker.php(104): Workerman\Worker->run()
+#12 /home/OdinProject/Odin/Workerman/Worker.php(900): GatewayWorker\BusinessWorker->run()
+#13 /home/OdinProject/Odin/Workerman/Worker.php(860): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#14 /home/OdinProject/Odin/Workerman/Worker.php(1032): Workerman\Worker::forkWorkers()
+#15 /home/OdinProject/Odin/Workerman/Worker.php(393): Workerman\Worker::monitorWorkers()
+#16 /home/hippo/start.php(49): Workerman\Worker::runAll()
+#17 {main}
+2018-02-05 15:29:25 Workerman[start.php] restart 
+2018-02-05 15:29:25 Workerman[start.php] is stoping ...
+2018-02-05 15:29:25 Workerman[start.php] Stopping ...
+2018-02-05 15:29:25 Workerman[start.php] has been stopped
+2018-02-05 15:29:25 Workerman[start.php] stop success
+2018-02-05 15:29:54 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-05 15:29:54 worker[BusinessWorker:30203] exit with status 65280
+2018-02-05 15:29:57 WORKER EXIT UNEXPECTED E_ERROR Call to a member function toArray() on a non-object in /home/hippo/Applications/Logic/TalkLogic.php on line 25
+2018-02-05 15:29:57 worker[BusinessWorker:30234] exit with status 65280
+2018-02-05 15:31:13 WORKER EXIT UNEXPECTED E_ERROR Call to a member function toArray() on a non-object in /home/hippo/Applications/Logic/TalkLogic.php on line 25
+2018-02-05 15:31:13 worker[BusinessWorker:30235] exit with status 65280
+2018-02-05 15:31:53 Workerman[start.php] restart 
+2018-02-05 15:31:53 Workerman[start.php] is stoping ...
+2018-02-05 15:31:53 Workerman[start.php] Stopping ...
+2018-02-05 15:31:53 Workerman[start.php] has been stopped
+2018-02-05 15:31:53 Workerman[start.php] stop success
+2018-02-05 15:33:11 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-05 15:33:11 worker[BusinessWorker:30335] exit with status 65280
+2018-02-05 15:33:19 WORKER EXIT UNEXPECTED E_ERROR Call to a member function toArray() on a non-object in /home/hippo/Applications/Logic/TalkLogic.php on line 25
+2018-02-05 15:33:19 worker[BusinessWorker:30423] exit with status 65280
+2018-02-05 15:33:50 WORKER EXIT UNEXPECTED E_ERROR Call to a member function toArray() on a non-object in /home/hippo/Applications/Logic/TalkLogic.php on line 25
+2018-02-05 15:33:50 worker[BusinessWorker:30424] exit with status 65280
+2018-02-05 15:35:10 Workerman[start.php] restart 
+2018-02-05 15:35:10 Workerman[start.php] is stoping ...
+2018-02-05 15:35:10 Workerman[start.php] Stopping ...
+2018-02-05 15:35:10 Workerman[start.php] has been stopped
+2018-02-05 15:35:10 Workerman[start.php] stop success
+2018-02-05 15:35:23 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-05 15:35:23 worker[BusinessWorker:30516] exit with status 65280
+2018-02-05 15:38:55 WORKER EXIT UNEXPECTED E_ERROR method_exists(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition "Model_Customer_service" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home/OdinProject/Odin/Cache/Userlist.php on line 40
+2018-02-05 15:38:55 worker[BusinessWorker:30526] exit with status 65280
+2018-02-05 15:40:53 Workerman[start.php] restart 
+2018-02-05 15:40:53 Workerman[start.php] is stoping ...
+2018-02-05 15:40:53 Workerman[start.php] Stopping ...
+2018-02-05 15:40:53 Workerman[start.php] has been stopped
+2018-02-05 15:40:53 Workerman[start.php] stop success
+2018-02-05 15:41:17 Workerman[start.php] Stopping ...
+2018-02-05 15:41:17 Workerman[start.php] has been stopped
